@@ -1,4 +1,4 @@
-# Hi there 👋 I'm William Janssen
+# Hi there 👋 I'm William 
 🏠 Based in **Stockholm, Sweden**
 
 ## About Me
@@ -13,7 +13,7 @@ I'm a full-stack developer passionate about building things for the web. Current
 - 🔭 Currently working at **Vakansa** as a developer and mentor
 - 🌱 Expanding beyond JavaScript to broaden my full-stack competence
 - 🤝🏼 Always open to collaborating on interesting projects
-- ⚡ Check out my latest project — [**Four Phases of React**](https://github.com/William0209/Four_Trials_Of_React) — a template designed to help you learn React through hands-on trials, with theoretical concepts covered along the way
+- ⚡ Check out my latest project — [**Four Phases of React 🗻⚔️🥋**](https://github.com/William0209/Four_Trials_Of_React) — a template designed to help you learn React through hands-on trials, with theoretical concepts covered along the way
   
 ## Let's Connect
 - 💬 I love to discuss programming, development, management, and everything around it
